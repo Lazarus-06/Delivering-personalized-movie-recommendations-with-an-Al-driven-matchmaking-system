@@ -1,0 +1,11 @@
+UserID,UserAge,UserGender,UserPreferences,MovieID,MovieTitle,MovieGenre,Rating,Timestamp
+1,25,Male,"Action, Adventure, Sci-Fi",101,The Matrix,Sci-Fi,5,2025-05-17 14:32:45
+2,30,Female,"Romance, Drama, Comedy",102,Titanic,Romance,4,2025-05-17 15:10:30
+3,22,Male,"Horror, Thriller",103,Get Out,Horror,5,2025-05-17 16:12:22
+4,28,Female,"Comedy, Romance",104,The Proposal,Comedy,3,2025-05-17 17:45:10
+5,35,Male,"Action, Thriller",105,Die Hard,Action,5,2025-05-17 18:55:00
+6,27,Female,"Fantasy, Adventure",106,Harry Potter,Fantasy,5,2025-05-17 19:12:40
+7,29,Male,"Documentary, History",107,The Last Dance,Documentary,4,2025-05-17 20:10:10
+8,24,Female,"Mystery, Drama",108,Gone Girl,Mystery,4,2025-05-17 20:45:00
+9,26,Male,"Sci-Fi, Thriller",109,Inception,Sci-Fi,5,2025-05-17 21:30:00
+10,31,Female,"Drama, Musical",110,La La Land,Musical,4,2025-05-17 22:00:00
